@@ -84,4 +84,9 @@ elif submit3:
         st.subheader("The Repsonse is")
         st.write(response)
     else:
-        st.write("Please uplaod th
+        st.write("Please uplaod the resume")
+
+
+
+   
+

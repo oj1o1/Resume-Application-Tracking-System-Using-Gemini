@@ -10,7 +10,7 @@ Interactive web interface built with Streamlit.
 Data tracking and analysis features.
 
 # Requirements
-Before setting up the project, ensure you have the following installed:
+Before setting up the project, ensure you have the following:
 
 Python 3.9 or later
 

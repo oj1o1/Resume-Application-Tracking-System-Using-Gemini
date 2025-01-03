@@ -22,19 +22,19 @@ Poppler for pdf2image
    
 2. Install Python and Dependencies
 
-Ensure you have Python 3.9 or later installed. You can download it from the official Python website.
+  Ensure you have Python 3.9 or later installed. You can download it from the official Python website.
 
-Install the required Python libraries using:
+  Install the required Python libraries using:
    
-python -m pip install -r requirements.txt
+  python -m pip install -r requirements.txt
 
 3. Set Up Poppler
    
 4. Start the Application
    
-Run the Streamlit app:
+  Run the Streamlit app:
 
-streamlit run app.py
+  streamlit run app.py
 
 ![image](https://github.com/user-attachments/assets/09b49dd1-63e5-430e-aef2-1b3c3d52e68e)
 

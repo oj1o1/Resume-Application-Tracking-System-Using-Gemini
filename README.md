@@ -16,6 +16,12 @@ Python 3.9 or later
 
 Poppler for pdf2image
 
+streamlit
+
+google-generativeai
+
+python-dotenv
+
 # Installation and Setup
 
 1. Clone the Repository

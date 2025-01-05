@@ -14,8 +14,6 @@ Before setting up the project, ensure you have the following:
 
 Python 3.9 or later
 
-Poppler for pdf2image
-
 streamlit
 
 google-generativeai
@@ -42,5 +40,6 @@ python-dotenv
 
    streamlit run app.py
 
-![image](https://github.com/user-attachments/assets/09b49dd1-63e5-430e-aef2-1b3c3d52e68e)
+
+![image](https://github.com/user-attachments/assets/90d273bd-723f-4697-b276-affa45e9846d)
 

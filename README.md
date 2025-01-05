@@ -42,5 +42,6 @@ python-dotenv
 
 
 ![image](https://github.com/user-attachments/assets/90d273bd-723f-4697-b276-affa45e9846d)
+
 ![image](https://github.com/user-attachments/assets/49e9bebb-f3b3-4603-8599-3342a8cb78c5)
 

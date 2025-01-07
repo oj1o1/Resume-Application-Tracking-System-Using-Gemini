@@ -31,10 +31,8 @@ python-dotenv
    Install the required Python libraries using:
    
    python -m pip install -r requirements.txt
-
-3. Set Up Poppler
    
-4. Start the Application
+3. Start the Application
    
    Run the Streamlit app:
 
